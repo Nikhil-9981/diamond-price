@@ -9,7 +9,6 @@ dvc
 mlflow==2.2.2
 pyarrow
 streamlit
-cmake
 pickle-mixin
 streamlit-option-menu
 
