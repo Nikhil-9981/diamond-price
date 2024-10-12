@@ -7,7 +7,6 @@ matplotlib==3.9.2
 flask==2.3.3
 dvc==3.55.2
 mlflow==2.2.2
-pyarrow==11.0.0
 streamlit==1.39.0
 cmake==3.30.4
 pickle-mixin==1.0.2
